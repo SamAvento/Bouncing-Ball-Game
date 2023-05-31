@@ -1,5 +1,5 @@
 # Bouncing Ball Game  
-BÁO CÁO ĐỒ ÁN MÔN HỌC IE221.M11.VB2  
+BÁO CÁO ĐỒ ÁN MÔN HỌC IE221.N23.CNCL  
 Họ và Tên: NGUYỄN SƠN LONG  
 MSSV: 20521570  
 
